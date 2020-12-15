@@ -1,4 +1,0 @@
-com/github/AndersonLAlmeida/Iniciantes/ExtremamenteBasico.java
- com.github.AndersonLAlmeida.Iniciantes.ExtremamenteBasico
-com/github/AndersonLAlmeida/Iniciantes/AreaDoCirculo.java
- com.github.AndersonLAlmeida.Iniciantes.AreaDoCirculo
